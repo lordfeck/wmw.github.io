@@ -1,0 +1,13 @@
+title: Norfolk Churches
+ecc: 5
+category: dowdy
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2021-10-17
+url: http://www.norfolkchurches.co.uk
+is_highlight: no
+
+This gentleman has meticulously documented all the churches he can find in Norfolk, past and present. As of October 2021, the website is still updated each month.<br>
+The website's understated style gives proper focus to the words and photographs. Each church is given a generous amount of research.<br>
+A website like this is an example of passion done properly. These pages will abide long after anything on Facebook. A plain styled personal website is much better suited for preservation, which is a perfect fit for presenting historical research, because it shares the same goals.

@@ -1,0 +1,14 @@
+title: Spectrum Crap Games Competition
+ecc: 9
+category: artistic
+img_desc: 
+heaviness: Now Loading... CSSCGC
+order: 0
+date: 2023-10-21
+url: https://www.rickdangerous.co.uk/csscgc2021/index.html
+is_highlight: no
+
+The ZX Spectrum 48k was the machine that made the British computing scene. Its humble hackish origins were what introduced a generation of programmers to their craft. It also served to entertain many growing up in the 1980s with its vast and varied selection of games.<br><br>
+This computer was long discontinued by the time I was born, but I admire its simplicity and what it symbolises. Modern systems are inscrutable; they hide their workings from the user. They aren't nearly as approachable to program.<br><br>
+
+In this spirit, there is held a 'crap games contest' every year where a group of Spectrum enthusiasts attempt to create the worst game they can for the system. The entries may be browsed on this site - itself taking heavy inspiration from the Spectrum's graphics palette.

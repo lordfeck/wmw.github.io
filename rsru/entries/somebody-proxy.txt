@@ -1,0 +1,13 @@
+title: Some Proxy I Used To Know
+ecc: 9
+category: artistic
+img_desc: 
+heaviness: Behind Twelve
+order: 0
+date: 2023-10-01
+url: http://anyone.net/
+is_highlight: yes
+
+"Banned, blocked, restricted from accessing internet? Proxied, firewalled, socked? Nuked, flooded, attacked, trojaned, hacked in IRC, ICQ and chat rooms? Unable to use internet telephony?" - then here are the people who will help. Introducing Somebody Proxy. Never mind a VPN. Hide behind a humble proxy, and get back onto those services. Proxy technology is so old that the authorities won't even be checking anyway, so take that NordVPN!
+
+<br><br>This site was last updated in 2000, but it is still online. Presumably the proxy still works, but I'm not quite willing to pay the $49 monthly fee to verify that!

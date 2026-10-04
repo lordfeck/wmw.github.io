@@ -1,0 +1,13 @@
+title: Toastytech: the GUI gallery
+ecc: 9
+category: dowdy
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2021-12-01
+url: http://toastytech.com/guis/index.html
+is_highlight: yes
+
+Nathan Lineback's GUI Gallery, aka Toastytech.com, has been online for as long as I can remember. I don't know how I first found it, I'll guess it was in 2006 or earlier. And it has always been the same; the style hasn't changed once. That, with the strong opinions, makes it the dowdiest of all sites.<br>
+Here you can see screenshots that document the development of graphical user interfaces, all the way from the 1980s until now. Toastytech details many UIs and systems, like Unix, Windows, Macintosh. And certainly many you'll learn about for the first time. The author is very inventive, often showing screenshots of the systems in unusual configurations.<br>
+An absolute gem is this page: <a href="http://toastytech.com/evil/index.html">IE Is Evil</a>. At least Ballmer was spared crucifixion. And if you believe IE is evil, for your own sanity please keep your innocent eyes from <a href="https://arstechnica.com/information-technology/2021/11/microsoft-plans-to-integrate-a-buy-now-pay-later-app-into-edge/">MS Edge</a>.<br>

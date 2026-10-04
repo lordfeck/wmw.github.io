@@ -1,0 +1,13 @@
+title: Net Animations
+ecc: 9
+category: eclectic
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-01-25
+url: http://www.netanimations.net/
+is_highlight: yes
+
+Hand crafted website. A repository of many bizarre animated GIFs, each carefully categorised: e.g. Dogs, Birthdays, Computers, Creepy, Space, Obama. The range is as extensive as the variety.
+<br>
+The website is styled in an equally bizarre mish-mash of colours and textures. Don't go through life and say you've missed this one.

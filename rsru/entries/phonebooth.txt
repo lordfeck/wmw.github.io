@@ -1,0 +1,13 @@
+title: Mojave Phone Booth
+ecc: 10
+category: eclectic
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-01-27
+url: http://www.deuceofclubs.com/moj/mojave.htm
+is_highlight: no
+
+A website committed to the history of the world's loneliest phone booth (GB: phone box). It has been steadily updated since the author made his first visit in 1997 and long after its tragic demolition in 2000.<br>
+The stories inspired by it have made news reports, a film and even a book. This is next-level passion fused with eccentricity. Perhaps someday there can be a plaque erected to commemorate its memory.<br>
+The rest of this author's website is equally as eccentric and <a href="http://www.deuceofclubs.com/" target="_blank">certainly worth delving into it</a>.

@@ -1,0 +1,15 @@
+title: Vital Network, Homepages and Interests
+ecc: 8
+category: own
+img_desc: 
+heaviness: Light
+order: 0
+date: 2023-10-01
+url: http://vitn.com
+is_highlight: no
+
+The vital network is host to one Vitaly Blokhin's <i>(Blogging? He does!)</i> homepage, along with several pages devoted to his interests. He also hosts websites on behalf of his friends; they are <a href="http://vitn.com/promo/" target="blank">quite the artistic bunch</a> sharing poetry, music and writings of Russian history. Finally of interest is a curated directory of internet links from 1997: <a href="http://vitn.com/li.htm" target="_blank">here</a>.
+
+<br><br>A page has been created for Visual International Transliteration, itself <a href="http://vitn.com/vithome.htm" target="_blank">featuring clever letter art.</a> It proposes a universal system for transliterating any non-Latin script into characters familiar to its readers.
+
+<br><br>The site was first created in 1996 and was last updated in 2004. Its quaint style means a visit is vital. Quite a lot of thought and effort has went into the topics presented, and it is almost drowned amid the noise of the modern WWW.

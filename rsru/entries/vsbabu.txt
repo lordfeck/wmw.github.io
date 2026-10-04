@@ -1,0 +1,13 @@
+title: vsbabu on GNU/Linux
+ecc: 3
+category: own
+img_desc: 
+heaviness: Light
+order: 3
+date: 2021-09-17
+url: http://vsbabu.org/gnu/
+is_highlight: no
+
+A website dtaing from the very early 2000s, going into great deatil with its author's love of Linux. He describes his favourite open source projects and shares some of his own tutorials (PHP3, Perl) from the time period.<br>
+
+The website features a clean design and is still perfectly navigable today.

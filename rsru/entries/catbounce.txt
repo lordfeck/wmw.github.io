@@ -1,0 +1,11 @@
+title: Cat Bounce
+ecc: 5
+category: artistic
+img_desc: 
+heaviness: Medium
+order: 3
+date: 2022-09-24
+url: https://cat-bounce.com/
+is_highlight: no
+
+Cat bounce is worth a visit, given that this is something that cats are not known to do in real life. Here you can see this hypothetical depicted. Colourful visuals accompany the experience.

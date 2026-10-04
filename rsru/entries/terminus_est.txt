@@ -1,0 +1,11 @@
+title: Terminus Est
+ecc: 6
+category: own
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2021-09-13
+url: http://pprobst.surge.sh/
+is_highlight: no
+
+Personal homepage of a programer. He has also wrote his own static site generator. A small flair of grey & black ASCII art on the homepage.

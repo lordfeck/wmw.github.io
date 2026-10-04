@@ -1,0 +1,12 @@
+title: Cameron's World
+ecc: 8
+category: artistic
+img_desc: 
+heaviness: Pure Loaded!
+order: 3
+date: 2021-08-28
+url: https://www.cameronsworld.net
+is_highlight: yes
+Flood your web browser with a deluge of GeoCities. Animated GIFs, a MIDI soundtrack, mystery beckons. Click anything on the page to warp back in time.<br>
+This page persuaded me that I wasn't the only one who recalled the haphazard, DIY spirit that characterised my early days online.<br>
+It is sincerely a work of high aesthetics. May it abide forever.

@@ -1,0 +1,12 @@
+title: Simplex Locomotives
+ecc: 5
+category: dowdy
+img_desc: 
+heaviness: Narrow-Gauge
+order: 3
+date: 2022-08-06
+url: http://simplex.avlr.org.uk/
+is_highlight: no
+
+Two gentlemen built this website in March 2002. It details in depth the petrol and diesel locomotives made by the Simplex Motor Rail &amp; Tramcar Co of Bedford, England. You can read of their construction and specifications; there are detailed images and diagrams provided.<br>
+In their day these railway vehicles would've been slogging daily in collieries and manufacturing plants. Their history is preserved on this well-laid out website, available to the curious enthusiast even today.

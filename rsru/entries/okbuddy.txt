@@ -1,0 +1,11 @@
+title: OK Buddy Retard (Official)
+ecc: 8
+category: eclectic
+heaviness: Lightweight
+img_desc: 
+order: 3
+date: 2021-12-04
+url: https://okbrofficial.neocities.org/
+is_highlight: no
+OKBR is an advice website that will make you a master of every pursuit in life. An unparalleled source of Dogecoin investment advice. True to form geocities-style homepage and a wonder to behold. 
+The Internet continues to deliver.

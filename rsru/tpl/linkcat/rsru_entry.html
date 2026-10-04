@@ -1,0 +1,16 @@
+            
+            <table class="rsru {% IS_HIGHLIGHT %}">
+            <tr>
+                <td class="title" colspan="2"><span id="entryTitle">{% title %}</span> <span class="anchor">[<a href="#{% KEY %}" id="{% KEY %}">jump here</a>] [<a href="{% PERMALINK %}">permalink</a>] [<a href="{% PERMALINK %}#isso-thread">Comments</a>]</td>
+            <tr>
+                <td class="desc" colspan="2" rowspan="1">{% desc %}</td>
+            </tr>
+            <tr>
+                <td class="heaviness"><b>Heaviness:</b> {% heaviness %}</td>
+                <td class="ecc" title="Eccentricity" colspan="1"><b>Eccentricity:</b> {% ecc %}/10</td>
+            </tr>
+            <tr>
+                <td class="date" title="Submission date"><b>Submitted:</b> {% date %}</td>
+                <td class="siteUrl" colspan="1"><a href="{% url %}" target="_blank">Visit {% title %}</a></td>
+            </tr>
+            </table>

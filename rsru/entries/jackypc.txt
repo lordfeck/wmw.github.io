@@ -1,0 +1,12 @@
+title: Jackypc
+ecc: 7
+category: eclectic
+img_desc: 
+heaviness: Light
+order: 3
+date: 2021-11-01
+url: http://www.jackypc.com/index2.php3?rub=gallerie&gal=pc
+is_highlight: no
+
+A French website showcasing home-built PCs from the early to mid 2000s. Presented in a crimson and black coating. Pick a random number and see how the boxes looked in Croissant land 15 years ago.<br>
+The website was last updated in 2010, and that was a news update remarking on how it hadn't been updated since 2007&#58; "En 2010, vous me direz que c'est une page à l'abandon."<br>

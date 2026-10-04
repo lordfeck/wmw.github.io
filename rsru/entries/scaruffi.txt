@@ -1,0 +1,13 @@
+title: Scaruffi's General Index of Music Biographies
+ecc: 8
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-01-29
+url: https://www.scaruffi.com/music/groups.html
+is_highlight: yes
+
+Analysis and reviews of thousands of musical artists. All sourced from the mind of one man, Piero Scaruffi, an Italian philosopher who is very well read and listened.<br>
+Scaruffi has a wealth of knowledge of musical history and brings that to bear on his reviews. Most famously, or infamously of all, <a href="https://www.scaruffi.com/vol1/beatles.html" target="_blank">is his teardown of The Beatles</a>. He argues the Liverpudlians weren't groundbreaking, but imitative and reactionary, more a marketing myth that persists to this day.<br><br>
+The scope of his writing is vast. The web site is styled just as idiosyncratically as the author; <a href="https://www.scaruffi.com/" target="_blank">visit the homepage to read his other pieces.</a> Music is but one of his interests, I am in awe of how one man can achieve so much. His first language is Italian; many pages are presented in both Italian and English.

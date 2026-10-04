@@ -1,0 +1,15 @@
+title: Heaven Games
+ecc: 8
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 3
+date: 2025-09-29
+url: https://www.heavengames.com/
+is_highlight: no
+
+Before the Reddiborg assimilated all that was known as online communities, there was the forum - also known as the message board, or the flame war arena where all the serious questions of life were debated and settled. These communities were founded and paid by their members, on web servers that they owned and maintained. Autonomy came with its upsides and downsides, but I think owning your own space trumps all other concerns.<br><br>
+Sadly many of these communities have disappeared as its members left for the ADHD-inducing doomscroll feeds, but one such community has persisted since 1997. HeavenGames is built for those whose idea of heaven is resource management and urban planning occasionally interrupted by combat. It has dedicated forums for Age of Empires I, II, III, Age of Mythology, the Caesar series, Star Wars Galactic Battlegrounds, Empire at War, Empire Earth, and many others even I don't know.<br><br>
+The discussions have been archived going as far back as three decades. The site also hosts an extensive collection of mods and campaigns. I had a swing at designing a SWGB campaign in 2007, and it's still there, even down to the remarks of the two poor sods who played it then left reviews.<br><br>
+One such gem is an extensive QnA with Ensemble Studios' Sandy Petersen, who was a design lead at Id Software then went to work on the Age of Empires series. You can still <a href="https://aok.heavengames.com/university/game-info/general-info/ask-sandyman/" target="_blank">read his answers</a> to various questions as the release of Age of Empires II was anticipated.<br><br>
+Activity isn't as busy as its heyday. But the forums are still receiving posts, and the news section still has updates as of 2025. Long live HeavenGames and the independent forum!

@@ -1,0 +1,15 @@
+title: Today in Science
+ecc: 9
+category: dowdy
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2022-06-04
+url: https://todayinsci.com/
+is_highlight: no
+
+Today in science - dozens of facts and stories broken down by date and category. Also replete with quotes from many noted historical scientists. It's possible to enter your date of birth and see which natural philosophers share your birthday. Spot quizzes and polls still feature on the site and get plenty of answers from visitors.<br><br>
+
+I discovered this website whilst researching the history of the propeller cap - a quaint accessory I remember from American cartoons. It happens that they were real! <a href="https://todayinsci.com/Events/Patent/UltimatePropellerHead.htm" target="_blank">And originally "atomic".</a><br><br>
+
+The website has been online since 1999, its was regularly expanded until 2013 with its last update was in 2018.

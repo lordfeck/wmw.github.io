@@ -1,0 +1,324 @@
+/*layout - linkcat */
+/*DIVERGES FROM REPO*/
+
+/* font */
+@font-face {
+  font-family: "tosh";
+  src: url("./WebPlus_ToshibaSat_8x14.woff") format('woff');
+}
+@font-face {
+  font-family: "amstrad";
+  src: url("./Web437_Amstrad_PC.woff") format('woff');
+}
+
+body {
+    background-color: #1f1f1f;
+    margin: 0;
+    color: #ffffff;
+    font-family: Verdana, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+div#topBar {
+    background-color: #490707;
+    background-image: url("repeat2.gif");
+    background-repeat: repeat-x;
+    width: 100%;
+    height: 70px;
+    padding-top: 5px;
+    border-bottom: 1px solid black;
+}
+div#titleWrap {
+    margin-top: 20px;
+}
+div#bodyContainer {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+div#catBar {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding-top: 2px;
+    height: 26px;
+    background-color: #660c0a;  
+    text-align: center;
+    border-bottom: 1px solid black;
+    bottom: 0;
+    position: relative;
+
+    letter-spacing: 1px;
+    font-family: tosh, Verdana, Arial, sans-serif;
+}
+
+div#nav {
+    text-align: center;
+    font-size: 1.0em;
+    padding-bottom: 2px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    height: 1.2em;
+}
+
+div#navCount {
+    float: left;
+}
+div#navSkip {
+    float: right; 
+}
+
+div.catName {
+    display: inline-block;
+    font-size: 1.2em;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    height: 25px;
+    padding: 0px 8px 0px 8px;
+    background-color: #515151;
+}
+
+div.active {
+    background-color: #1f1f1f;
+    border-bottom: 0;
+    padding-bottom: 1px;
+}
+
+div#rsruCanvas {
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.9em;
+    max-width: 85%;
+}
+
+span.anchor {
+    float: right;
+    padding-right: 3px;
+}
+
+/* text style */
+h1#top{
+    color: #FFE04D;
+    text-transform: uppercase;
+    text-shadow: 2px 2px black;
+    margin-bottom: 0px;
+
+    letter-spacing: 3px;
+    text-align: center;
+    font-family: amstrad, Verdana, Arial, sans-serif;
+    font-size: 1.2em;
+}
+
+span.c1 { color: #FF5E4D; }
+span.c2 { color: #F9982F;  }
+span.c3 { color: #9CB6DF; }
+
+.hpHeader{
+    color: #FFE04D;
+
+    font-family: tosh, Verdana, Arial, sans-serif;
+    line-height: 14px;
+    letter-spacing: 2px;
+}
+
+span.entryName , span.entryDesc {
+    padding-top: 0px;
+    margin-bottom: 8px;
+    margin-top: 0;
+}
+
+span.entryName {
+    font-size: 1.2em;
+}
+
+span.entryDesc {
+    font-size: 0.8em;
+}
+
+div#subt{
+    font-size: 1em;
+    margin-top: 0px;
+    font-style: italic;
+    text-align: center;
+    color: #F79630;
+    letter-spacing: 2px;
+    font-family: tosh, Verdana, Arial, sans-serif;
+}
+
+p.footerText{
+    font-size: 0.7em;
+    text-align: center;
+}
+
+span#entryTitle {
+    font-weight: bold;
+    font-style: italic; 
+}
+
+p#catDesc {
+    font-style: italic;
+    margin-top: 1px;
+}
+
+/* Link style */
+a:link, a:visited {
+    text-decoration: none;
+    color: #6cdbff;
+}
+
+a:hover, a:focus, a:target {
+    text-decoration: underline;
+    text-decoration-color: #6cdbff;
+    text-shadow: 0 0 4px #90b6ff;
+}
+
+div#catBar a {
+        color: #FFE04D;
+}
+
+span#catTotal {
+    float: right;
+}
+
+/* rsru table */
+table.rsru {
+    color: #1e1e1e;
+    width: 100%;
+    margin-bottom: 15px;
+    background-color: #FFAF81;
+    border-radius: 3px;
+    border: 2px solid #660c0a;
+}
+
+table.highlight {
+    background-color: #eeb449;
+    border: 2px solid #ac963f;
+    box-shadow: 0px 0px 10px #d4d4d5;
+}
+
+table.rsru td {
+    border: 0px;
+}
+
+img.imgThumbnail {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+img.imgFullsize {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    display: block;
+    max-width: 90%;
+}
+
+table.rsru .img_td {
+    text-align: center;
+}
+
+table.rsru .imgWrap {
+    width: 150px;
+    display: block;
+    margin-left: 5px;
+    float: right;
+}
+
+table.rsru .imgBorder {
+    border: 1px solid gold;
+}
+
+table.rsru a:link, table.rsru a:visited {
+	text-decoration-line: underline;
+	color: #14439d;
+	font-size: 1.1em;
+}
+
+table.rsru a:hover, table.rsru a:focus, table.rsru a:target {
+    text-decoration: underline;
+	color: #9d0000;
+	text-decoration-color: #9d0000;
+    text-shadow: 0 0 3px #FF0000;
+}
+
+
+table.rsru .desc {
+    min-height: 50px;
+    vertical-align: top;
+    width: 100%;
+}
+
+table.rsru .title {
+    min-width: 80%;
+    border-bottom: 1px solid black;
+}
+
+table.rsru .heaviness {
+    height: 1.2em;
+    text-align: left;
+    vertical-align: bottom;
+}
+
+table.rsru .ecc {
+    text-align: right;
+    vertical-align: bottom;
+}
+
+table.rsru .siteUrl {
+    height: 1.2em;
+    text-align: right;
+    vertical-align: bottom;
+}
+
+table.rsru .date {
+    text-align: left;
+    vertical-align: bottom;
+}
+
+/* make sure it's presentable on the small screen */
+@media only screen and (max-width: 650px) {
+    div.catName {
+        font-size: 0.9em;
+        padding: 0px 1px 0px 1px;
+        height: 22px;
+    }
+    div#catBar {
+        height: 23px;
+        margin-bottom: 2px;
+    }
+    
+    div.active {
+        border-bottom: 0;
+        padding-bottom: 1px;
+    }
+    
+    div#rsruCanvas {
+        padding-top: 0px;
+        max-width: 100%;
+    }
+
+    table.rsru .imgThumbnail {
+        width: 80px;
+        height: 80px;
+    }
+
+    table.rsru .imgWrap {
+        max-width: 80px;
+        margin-left: 2px
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    div.catName {
+        font-size: 0.8em;
+        padding: 0px 1px 0px 1px;
+        height: 20px;
+    }
+    div#catBar {
+        height: 23px;
+        margin-bottom: 2px;
+    }
+    div.active {
+        padding-bottom: 1px;
+    }
+}

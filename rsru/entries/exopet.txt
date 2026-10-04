@@ -1,0 +1,12 @@
+title: exo.pet
+ecc: 9
+category: eclectic
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-11-12
+url: https://exo.pet/
+is_highlight: no
+
+A luminous creation lives here. The website is dedicated to "neopets" which I presume are a past or future kind of digital companion. As is true of personal pages the pets themselves are under construction. What exists of them is a webpage laden with pixelart GIFs. I'll say that's near enough because at least GIFs aren't (yet) nagging to be fed.<br><br>
+The presentation is fluorescent tones over a starry backdrop. This is melded with a mid-2000s software publisher website style. Wherever the author takes this website will be intriguing, but even now it is worth visiting for the aesthetics.

@@ -1,0 +1,11 @@
+title: Machine Cat's Realm
+ecc: 7
+category: own
+img_desc: 
+heaviness: Medium
+order: 3
+date: 2022-03-19
+url: https://machine-cat.space/
+is_highlight: no
+A high-effort homepage styled after Wordart and Windows 98. Featuring some of the author's own artworks and music. Strong vaporwave and pixel art aesthetics prevail.<br>
+I'm especially fond of the old school tree control used in the navigation pane.

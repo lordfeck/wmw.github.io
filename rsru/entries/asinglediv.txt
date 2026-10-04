@@ -1,0 +1,13 @@
+title: A Single Div
+ecc: 6
+category: artistic
+img_desc: 
+heaviness: Light
+order: 0
+date: 2024-11-30
+url: https://a.singlediv.com/
+is_highlight: no
+
+What is the most that can be achieved inside a single div, leaving the rest to CSS? Quite a lot, as Lynn Fisher has proven to us with her website "A Single Div."<br><br>
+As you scroll down the page, you will see quite a many graphics and animations rendered using the Web's styling language alone. This beggars belief. Now we know that to the gifted, CSS can be made to draw next to anything. My personal favourite on this page is the 1980s Weird Al Yankovic.
+

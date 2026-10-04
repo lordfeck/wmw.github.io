@@ -1,0 +1,15 @@
+title: XXIIVV
+ecc: 9
+category: own
+img_desc: 
+heaviness: Light
+order: 3
+date: 2023-03-11
+url: https://wiki.xxiivv.com/site/home.html
+is_highlight: no
+
+Enter the dominion of Devine Lu Linvega, who calls himself a generalist. He develops software for what is called the Hundred Rabbits ecosystem, that is software intentionally built to survive a probable future collapse of society. The software runs a Varvara computer; I'm not sure what that is. But it compiles for Unix systems, which I and many others do know, so there's that. Some of this software is used to build his website which proves its viability.
+
+<br><br>The website style is expectedly understated for someone holding eschatological beliefs. The focus is on his musings and works and so it is consciously styled; mostly black and white with limited colours. Line art illustrations are nestled among the pages. Hyperlinks are encapsulated inside opening and closing braces.<br><br>
+
+The website isn't limited to software: There are details of his illustrations and experimental music. Additionally the proprietor is proudly off-grid and living aboard his own ship. According to the publicly viewable location map he frequently crosses the Pacific ocean; quite the life! Unless, as I suspect, he has tied the location beacon to a seabird to frustrate the schemes of the feds.

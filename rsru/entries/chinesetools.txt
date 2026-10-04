@@ -1,0 +1,13 @@
+title: Chinese Tools Online
+ecc: 6
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-01-05
+url: http://www.mandarintools.com/
+is_highlight: no
+
+A website that aims to introduce you to Chinese language and culture. A visit to this website feels like excavating a long forgotten world, just like how the nation of China reaches time immemorial.<br>
+There are some Java applets which are long unsupported in modern web browsers, but there is a <a href="http://www.mandarintools.com/chinesename.html">Chinese name generator</a> that is still functional; it takes your English name, combines it with your zodiac sign and goals, and renders a possible Chinese equivalent. It also has a downloadable Perl module that helps identify Chinese dialects.
+

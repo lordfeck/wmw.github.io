@@ -1,0 +1,13 @@
+title: Guided By Voices (old site)
+ecc: 7
+category: own
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-01-26
+url: http://robertpollard.net/oldgbvsite/welcome.html
+is_highlight: no
+
+The old website of Guided By Voices. Seems to be a sporadic compilation, spliced of styles and scraps from through time. Not unlike one of the band's albums.<br>
+The website is hand built and seems to have been last touched in 2005. It has a lot of lore, links to reviews, photos of the band through the ages. I enjoyed the animated GIFs in the style of Bee Thousand's album artwork. I also salute the choice of a .net domain name!<br>
+Suffice to say, the old website has much more to explore than the <a href="https://www.guidedbyvoices.com">current</a>, which is more of a brochure than a scrapbook.

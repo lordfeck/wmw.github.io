@@ -1,0 +1,10 @@
+title: The Shorland Site
+ecc: 2
+category: dowdy
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2021-09-01
+url: https://www.shorlandsite.com/
+is_highlight: no
+Two gentlemen have created their own website dedicated to Shorland Land Rovers. If you're interested in APVs and APCs from the 1960s-1990s, this is the site for you. It features scans of detailed schematics of all the prototypes. It has been lovingly crafted in MS FrontPage.

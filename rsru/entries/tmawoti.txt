@@ -1,0 +1,10 @@
+title: The Most Amazing Website On The Internet
+ecc: 6
+category: eclectic
+img_desc: 
+heaviness: Mediumweight
+order: 3
+date: 2021-08-28
+url: http://www.themostamazingwebsiteontheinternet.com
+is_highlight: no
+The title is correct. Everyone should make a visit here at least once in your life. At TMAWOTI, you'll witness the pinnacle of web design. This site is the high bar whereto we all aspire; everything else is a gaping miss. 

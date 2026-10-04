@@ -1,0 +1,12 @@
+title: Grimace's Birthday
+ecc: over 9000 calories
+category: artistic
+heaviness: Super Size Me
+order: 3
+date: 2023-07-11
+url: https://grimacesbirthday.com/
+is_highlight: no
+
+It is 2023. The McDonald's corporation needs a new marketing ploy. Something perhaps to tap into this 'gaming' thing the kids are raving on about. They finally decide to make a game.<br><br>
+Of all the platforms they could've selected, the Gameboy Color is what they elected. Some say this is a conscious attempt to tap into nostalgia, but I think they chose the GBC because it was current the last time their marketing department played a game.<br><br>
+Either way, we've a skateboarding purple fellow who needs to round up his friends for his birthday. Who can't relate? The game is a genuine Gameboy Color ROM that may be played inside the browser, complete with a contemporary website to house it. The ROM may be downloaded <a href="https://archive.org/details/grimaces-birthday-game" target="_blank">here</a> and played on a real GBC. Some details of how it was made is <a href="https://gbstudiocentral.com/news/mcdonalds-celebrates-grimaces-birthday-with-a-gb-studio-game/" target="_blank">here</a> should you wish to build your own GBC game in 2023 or later.

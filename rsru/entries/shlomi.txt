@@ -1,0 +1,11 @@
+title: Shlomi Fish
+ecc: 6
+category: own
+img_desc: 
+heaviness: Light
+order: 3
+date: 2021-12-21
+url: https://www.shlomifish.org/
+is_highlight: no
+
+Homepage belonging to a Perl (and Open Source) enthusiast. He has also written short articles on many of his interests and views. The website is hand-built with a lot of passion; it clearly matches the eccentricity of its author.

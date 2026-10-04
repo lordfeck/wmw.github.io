@@ -1,0 +1,11 @@
+title: A.N. Lucas
+ecc: 8
+category: eclectic
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2021-09-01
+url: https://anlucas.neocities.org/
+is_highlight: yes
+
+A true-to-tradition Geocities style homepage. Featuring its own animated GIFs, a very tasteful logotype and its own fireplace.<br>This one shows how these web pages look when construction is complete.

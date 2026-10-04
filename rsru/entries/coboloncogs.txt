@@ -1,0 +1,13 @@
+title: COBOL ON COGS
+ecc: 10
+category: artistic
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-02-22
+url: http://www.coboloncogs.org/HOME.HTM
+is_highlight: no
+IDENTIFICATION DIVISION.<br>
+Should you ever find yourself needing to deploy a web framework on a 1960s IBM mainframe, fret not, here is your answer.<br>
+DATA DIVISION.<br>
+This is a small website imagining how it might be, were these two disparate worlds to merge. (And if you want a <i>real</i> COBOL web framework, someone has built one <a href="https://github.com/azac/cobol-on-wheelchair" target="_blank">here</a>).

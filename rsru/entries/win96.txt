@@ -1,0 +1,10 @@
+title: Windows 96
+ecc: 3
+category: artistic
+img_desc: 
+heaviness: Heavy
+order: 3
+date: 2021-08-28
+url: https://www.windows96.net
+is_highlight: no
+Someone has recreated the Windows 98-2000 desktop experience in the browser. This is worth a look for the trip down memory lane if you can't be bothered firing up a VM.

@@ -1,0 +1,17 @@
+title: SciFi Movie Zone
+ecc: 6
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 0
+date: 2023-11-18
+url: https://www.scifimoviezone.com/
+is_highlight: no
+
+Forget Wikipedia, or worse, Fandom.com. There is only one spot on the Internet for Sci-Fi movie lore and appreciation.<br><br>
+
+Introducing Sci-Fi Movie Zone. This site is packed with details on every nerd's delights: RoboCop, Star Wars, Stargate, Tron, Terminator, Blade Runner. Even modern film like Marvel and DC is covered for those longsuffering folks who can abide 180 minutes of those movies. There is also a section devoted to <a href="https://www.scifimoviezone.com/scifi50s.shtml" target="_blank">lesser-appreciated 50s sci fi films</a>.<br><br>
+
+What drew the site to my attention was this: <a href="https://www.scifimoviezone.com/StarWarsScript20.shtml" target="_blank">Annotated stills and and commentary on the script of A New Hope</a>. For each film series you can also find publicity stills, videos, episode guides, all you would want to know about the cast and crew. There are endless amounts to uncover for the bold spacefarer.<br><br>
+
+Who is it who owns this quirky Internet dominion and fills it with enthusiastic exposition? His or her identity is as elusive as the mysteries beyond the stars.

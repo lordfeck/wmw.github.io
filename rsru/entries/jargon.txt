@@ -1,0 +1,12 @@
+title: The Jargon File
+ecc: 8 
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 3
+date: 2021-10-24
+url: http://www.catb.org/~esr/jargon/html/index.html
+is_highlight: yes
+An invaluable guide to hacker culture. Hackers aren't driven by malice but by curiosity, a desire to get more from their hardware and software than its makers intended. <b>Unfortunately in common parlance, the term 'hacker' is now synonymous with 'cracker'</b>, which is what hackers call those who break things for dishonest gain.<br>
+You can learn more of the hacker culture here, <u>which has given rise to everything we value in the world of computing</u>.<br><br>
+There are many good quotes here, like&#58; "Compromise is not particularly a hackish virtue, but the honest presentation of divergent viewpoints is."

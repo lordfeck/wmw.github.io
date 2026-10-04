@@ -1,0 +1,35 @@
+            
+            <table class="rsru {% IS_HIGHLIGHT %}">
+            <tr>
+                <td class="title" colspan="3"><span id="entryTitle">{% title %}</span> <span class="anchor"> [<a href="{% PERMALINK %}">permalink</a>]</span></td>
+            </tr>
+            <tr>
+                <td colspan="3" >
+			<img src="{% img_full %}" class="imgFullsize" title="{% img_desc %} a fullsize screenshot of {% title %}, click here to visit." alt="{% img_desc %}">
+                </td>
+            </tr>
+                <td class="desc" colspan="2" rowspan="1">{% desc %}</td>
+            </tr>
+	    <tr>
+        <td style="text-align:center; padding-top: 5px;" colspan="2" rowspan="1">
+			<a href="{% url %}" target="blank" style="padding-top: 5px;">Visit {% title %}</a>
+		</td>
+	    </tr>
+        <tr>
+            <td class="heaviness"><b>Heaviness:</b> {% heaviness %}</td>
+            <td class="ecc" title="Eccentricity" colspan="1"><b>Eccentricity:</b> {% ecc %}/10</td>
+        </tr>
+        <tr>
+            <td class="date" title="Submission date"><b>Submitted:</b> {% date %}</td>
+        </tr>
+        <tr>
+             <td colspan="2">
+                <h3>Comments:</h3>
+                <script data-isso="//comments.thran.uk/wmw" src="//comments.thran.uk/wmw/js/embed.min.js"></script>
+
+                <section id="isso-thread">
+                    <noscript>Javascript needs to be activated to view comments.</noscript>
+                </section>
+        </td>
+        </tr>
+            </table>

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+. web.config
+#  --delete apparrently removes anything not in source at destination -avc
+echo "WMW"
+rsync -rvc --delete -e "ssh -p $SSH_PORT" ./output/ tp:/var/www/wmw/html/
+

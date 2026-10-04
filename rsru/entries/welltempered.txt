@@ -1,0 +1,13 @@
+title: The Well-Tempered Computer
+ecc: 6
+category: dowdy
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2021-11-30
+url: https://www.thewelltemperedcomputer.com/index.html
+is_highlight: no
+
+A website with a wealth of knowledge on all things PC audio. It has a focus on Windows and OSX but I see Linux and Android mentioned too. Detailed are all the aspects of sound APIs, optimal configuration, opinions. Also reviews of many music playing applications.
+<br>
+What's an ASIO? Why would I want to use WASAPI? The answer to these, and many other questions, may be found here.

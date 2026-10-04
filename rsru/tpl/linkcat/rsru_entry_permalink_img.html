@@ -1,0 +1,34 @@
+            
+            <table class="rsru {% IS_HIGHLIGHT %}">
+            <tr>
+                <td class="title" colspan="3"><span id="entryTitle">{% title %}</span> <span class="anchor">[<a href="#{% KEY %}" id="{% KEY %}">jump here</a>] [<a href="{% PERMALINK %}">permalink</a>]</span></td>
+            <tr>
+                <td class="desc" colspan="2" rowspan="1">{% desc %}</td>
+                <td class ="td_img" rowspan="3">
+                    <div class="imgWrap">
+                    <div class="imgBorder">
+                        <a href="{% PERMALINK %}" ><img src="{% img_thumbnail %}" class="imgThumbnail" title="{% img_desc %} click here to view a fullsize screenshot of {% title %}" alt="{% img_desc %}"></a>
+                    </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="heaviness"><b>Heaviness:</b> {% heaviness %}</td>
+                <td class="ecc" title="Eccentricity" colspan="1"><b>Eccentricity:</b> {% ecc %}/10</td>
+            </tr>
+            <tr>
+                <td class="date" title="Submission date"><b>Submitted:</b> {% date %}</td>
+                <td class="siteUrl" colspan="1"><a href="{% url %}" target="_blank">Visit {% title %}</a></td>
+            </tr>
+
+            <tr>
+                <td colspan="2">
+                    <h3>Comments:</h3>
+                <script data-isso="//comments.thran.uk/wmw" src="//comments.thran.uk/wmw/js/embed.min.js"></script>
+
+                <section id="isso-thread">
+                    <noscript>Javascript needs to be activated to view comments.</noscript>
+                </section>
+            </td>
+            </tr>
+            </table>

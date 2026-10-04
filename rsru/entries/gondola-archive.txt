@@ -1,0 +1,13 @@
+title: Gondola Archive
+ecc: 9
+category: eclectic
+img_desc: 
+heaviness: Weighing upon the soul
+order: 3
+date: 2023-07-15
+url: https://gondola.nabein.me/list
+is_highlight: no
+
+Gondola, ever present and ever silent. Yet do no mistake his silence for thoughtlessness; his eyes betray a thousand lifetimes of seeing it all before and still not being able to believe what is before him. Gondola the strictly bipedal bear has numerous confirmed sightings and they have been documented on this very site. Perhaps with enough patience and after watching enough of these images set to music of his choosing, you might uncover the reason he has been sent.
+<br><br>
+Gondola in the screenshot: <a href="https://gondola.nabein.me/SeeYouSpaceGondola.webm" target="_blank">Taking orders or ordering?</a>

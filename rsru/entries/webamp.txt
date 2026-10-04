@@ -1,0 +1,11 @@
+title: Webamp - Winamp 2.0 in your browser
+ecc: 7
+category: artistic
+img_desc: 
+heaviness: Pure Loaded!
+order: 3
+date: 2021-11-30
+url: https://webamp.org/
+is_highlight: no
+Winamp is the media player I missed. I began playing MP3s with the inferior counterpart named 'RealPlayer'. But I've since learnt more of the legend of WinAmp. Here, the venerable 2.0 version has been recreated in a browser, complete with a classic desktop.<br>
+Fully functional; it plays real MP3s! It has the transcendental visualisations you'd expect. They even may be made full screen if you're called to DJ in a hurry.

@@ -1,0 +1,13 @@
+title: The Book of Joe
+ecc: 7
+category: own
+img_desc: 
+heaviness: Light
+order: 0
+date: 2023-10-01
+url: https://www.bookofjoe.com/
+is_highlight: no
+
+Music, clever inventions, new software, eclectic fauna. If you like these and things like them, you will find a kindred spirit in the Book of Joe. He's been blogging since before it was first cool, and he has kept the same straightforward HTML4/CSS style since then. Why change the look if you have been having fun sharing random cool things from the Internet, for as long as you have had a web presence of your own?<br><br>
+
+A salute to a fellow web connoisseur, and a health to his hypertext home!

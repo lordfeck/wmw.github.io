@@ -1,0 +1,12 @@
+title: Antikrist
+ecc: 9
+category: own
+img_desc: 
+heaviness: Light
+date: 2022-04-17
+url: https://antikrist.neocities.org/
+is_highlight: yes
+
+Dive deeply into the homepage of a trainee marine biologist. Presented in meticulously hand-woven HTML. The style would be at home in the Bioshock computer games. It's as if the Web was cut off from the city of Rapture in the early 2000s and lingered along quietly, separately from life on the surface.
+<br><br>
+The site is replete with details of the author's favourite bands, GIFs, AIM buddy icons, links, interests. (Don't miss the sections "Library" and "Portal"). The effort is equally applied to both style and contents.

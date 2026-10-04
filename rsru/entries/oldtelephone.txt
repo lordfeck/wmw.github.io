@@ -1,0 +1,17 @@
+title: The Old Telephone Company
+ecc: 5
+category: dowdy
+img_desc:
+heaviness: Clear as a bell
+date: 2023-03-25
+url: http://theoldtelephone.co.uk/
+is_highlight: no
+
+This is the place to go if you're ever inclined to "ring back memories with an old Bakelite telephone". The Old Telephone Company of Battlesbridge in England has restored countless antique telephones since 1986. The web page features information on various old GPO telephones. You may also enquire for sales and repairs; you'll also be pleased to know that all phones are converted to work as modern landlines.<br><br>
+Additionally the proprietor advises the best place to get a cup of tea and a sandwich in Battlesbridge, so you won't go hungry or thirsty should you ever visit.<br><br>
+<b>He also boasts:</b>
+<blockquote>
+My business is a "One Man Band". I buy, restore, and sell. Do the paperwork, keep the accounts, created this web site (courtesy of FrontPage2003).
+</blockquote>
+<br>
+Long may it trade and long may its website abide!

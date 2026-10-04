@@ -1,0 +1,10 @@
+title: GoldenEye 007 Mysteries
+ecc: 6
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-02-21
+url: https://goldeneye007.detstar.com/
+is_highlight: no
+A labour-of-love tribute website for the classic Nintendo 64 shooter, GoldenEye 007. It features many screenshots, walkthroughs, character descriptions and even details for a level editor.

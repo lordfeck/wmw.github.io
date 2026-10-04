@@ -1,0 +1,12 @@
+title: Simone's Computer
+ecc: 8
+category: artistic
+img_desc: 
+heaviness: Heavy-Laden
+order: 3
+date: 2022-03-02
+url: https://simone.computer/
+is_highlight: yes
+
+A homepage designed to resemble a 90s desktop. There are many easter eggs and goodies hidden throught the desktop. There is a public lightbulb that may be switched on/off by any visitor... things can get violent. I can't say much more; this one is best experienced.<br>
+The webmaster also provides <a href="https://simone.computer/#/webdesktops">a listing</a> of many other mock-desktops that run in web browsers.

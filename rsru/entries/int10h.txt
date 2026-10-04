@@ -1,0 +1,12 @@
+title: Ultimate Oldschool PC Font Pack (int10h.org)
+ecc: 10
+category: artistic
+img_desc: 
+heaviness: Modest
+order: 3
+date: 2022-08-13
+url: https://int10h.org/oldschool-pc-fonts/
+is_highlight: yes
+
+The author of this website has worked carefully to recreate various system fonts from the days of text mode displays. He's faithfully reproduced them in TTF and various modern formats, meaning they will scale properly on modern systems.<br><br>
+But I'd argue that's less a spectacle than the website itself, which is a tribute to 256-colour goodness crafted with much affection. <a href="https://int10h.org/" target="_blank">Don't miss the homepage</a> either. It's a perfect melding of demoscene and DOS TUIs.

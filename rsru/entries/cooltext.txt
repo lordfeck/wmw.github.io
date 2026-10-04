@@ -1,0 +1,12 @@
+title: CoolText.com Wall of Text
+ecc: 6
+category: artistic
+img_desc: 
+heaviness: Heavy
+order: 3
+date: 2021-12-16
+url: https://cooltext.com/Dashboard/Stream
+is_highlight: no
+
+CoolText.com allows one to generate stylised text, intended for web pages. Think of it being like WordArt but with many more colours and styles.<br>
+Here, you may see a waterfall of all the text that is being generated in real time. I noted a few including "Merry Christmas", "Dem Moves" and even random Arabic phrases.

@@ -1,0 +1,13 @@
+title: IwayNet on FrontPage Express
+ecc: 4
+category: dowdy
+img_desc: 
+heaviness: light
+order: 3
+date: 2021-10-25
+url: http://www.iwaynet.net/support/Web/FrontPage/fpe_create.html
+is_highlight: no
+
+When I was ten or eleven years old, I read of 'FrontPage Express' in a book. I yearned to build my own website and put it on the Internet for all to see. But this elusive program wasn't available on my PC.<br>
+In the days of dial-up, finding it online proved quite the task too. I asked a distant relative and months later she visited, presenting a 3.5" Floppy Disk bearing the FrontPage Express installer. Overjoyed, I set about building this website (which still exists online but is <b>well</b> hidden).<br><br>
+Years later, I find scant mention of FPE on the Internet, except this very old website of an independent ISP detailing basic usage. My favourite part is the screenshot of the UI, which shows an estimated download time of 9 seconds for one small JPEG. How far we've come.

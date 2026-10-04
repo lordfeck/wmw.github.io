@@ -1,0 +1,12 @@
+title: andai.tv
+ecc: 5
+category: artistic
+img_desc: 
+heaviness: Modest
+order: 3
+date: 2021-09-06
+url: https://andai.tv
+is_highlight: no
+
+This site has some quaint in-browser games and demos. I had fun with the robot walker and cruelly left him upturned on the ground. Then I played as a small fish, scouring the depths. You may also create your own (hopefully polite) animation before growing your own bonsai tree.<br>
+I recommend a visit, it's like a bustling day at a science fair.

@@ -1,0 +1,13 @@
+title: Future Blues
+ecc: 4
+category: artistic
+img_desc: 
+heaviness: Light
+order: 0
+date: 2023-07-21
+url: https://futureblues.com
+is_highlight: yes
+
+Future Blues is where you can learn everything you'd want to know about the Anime series Cowboy Bebop. It's a fansite from the era of real fansites, there is commentary, details of the episodes, character bios, music from the score, and of course a guestbook. The website has been styled to Eastern visuals and blends some of its own ideas in a maverick way. Given that the Anime series chronicles the adventures of space-faring bohemians, this style is entirely fitting.
+<br><br>
+It has been online since 1999. The site was last updated in 2021 to announce that Netflix had premiered a live action adaptation of the story.

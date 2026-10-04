@@ -1,0 +1,11 @@
+title: Fabien Sanglard
+ecc: 5
+category: own
+img_desc: 
+heaviness: Light
+order: 3
+date: 2021-12-23
+url: https://fabiensanglard.net/
+is_highlight: no
+A personal website and blog of a programmer. Fabien is French and Canadian, but not French-Canadian. He has written numerous articles delving into the depths of how computer game engines work and the process of game design.<br>
+Also, the website is very attractively presented (though it could do with a switch to text-align: left). It looks like an old hand-typed newsletter, similar to the style of my <a href="https://www.thran.uk" target="_blank">Thranpages</a>.

@@ -1,0 +1,12 @@
+title: Nobody Here
+ecc: 10 
+category: eclectic
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-09-24
+url: https://nobodyhere.com/justme/me.here
+is_highlight: yes
+
+The title is something of a misnomer because this website is alive. It is a man made into a digital entity only to be rendered corporeal again in your browser. Scroll and observe as he types free verse straining over deeper meanings on his vintage computer. Click into the eclectic categories that emerge on a list, and experience the assorted stream of conscience musings.
+<br>Original, very idiosyncratic, and borderline inexplicable. Something like what I seek in music, but thrown together in the form of a website. Somebody's there.

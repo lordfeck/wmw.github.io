@@ -1,0 +1,13 @@
+title: Twelve Men
+ecc: 8
+category: artistic
+img_desc: 
+heaviness: Light
+order: 0
+date: 2023-07-01
+url: https://twelvemen.neocities.org/
+is_highlight: no
+
+A curious fusion of East and West meets in this website; it takes visual cues from Tarantino film openings. The webpages flash from a TV/VCR combo, perhaps being retrieved from tape in real time, broadcasting the artistic achievements of the person or entity known as Twelve Men.<br>
+
+Is it one man, or twelve, or is it even a man who has originated these creations? Who can tell, but the anime recommendations and street photography makes it worth a visit.

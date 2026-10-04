@@ -1,0 +1,13 @@
+title: Wipeout Flythrough
+ecc: 5
+category: artistic
+img_desc: 
+heaviness: Adrenaline Rush
+order: 0
+date: 2023-06-18
+url: https://phoboslab.org/wipeout/
+is_highlight: no
+
+Enjoy a cabin view tour of the tracks made famous by the F3600 anti-gravity racing league. This website offers a peek at the future of motorsport racing. It is also rumoured that this website will be preserved to train drivers for the league, set to commence in 2052. You don't have to wait thirty years thanks to this site; click the link and get psyched!
+
+<br><br>As an aside, this is a very impressive web demo that takes the original Wipeout (1995) resource files and renders them using WebGL. The source code may be enjoyed <a href="https://github.com/phoboslab/wipeout/" target="blank">here</a> and the writeup telling how the author did it is <a href="https://phoboslab.org/log/2015/04/reverse-engineering-wipeout-psx" target="_blank">here</a>. This demo is written purely with the author's own JS knowledge combined with publicly available documentation of the data file formats. Curiously, the Wipeout source leaked earlier this year. It will be curious to see what anyone does with the combined knowledge.

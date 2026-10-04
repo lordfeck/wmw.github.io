@@ -1,0 +1,10 @@
+title: Persepolis Reimagined
+ecc: 4
+category: artistic
+img_desc: 
+heaviness: CPU Carnage
+date: 2022-04-17
+url: https://persepolis.getty.edu/
+is_highlight: no
+
+Go on a tour through the city of Persepolis, thanks to this highly detailed 3D rendering of the ancient city. Some say it was built by King Darius himself, who was known to be a crack at WebGL.

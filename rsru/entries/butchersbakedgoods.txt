@@ -1,0 +1,12 @@
+title: Butcher's Baked Goods
+ecc: choppy
+category: own
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2026-02-08
+url: https://butchersbakedgoods.com/
+is_highlight: no
+
+What happens when social media executives earn the ire of a butcher? Well, put down that silverside he sold you, it's not the first thing you think. He's started a website.<br><br>
+Butcher's Baked Goods is the home of one James Butcher. Like any good personal website, it has lists of his music, film and video game tastes. Some of the bands I also dig, though I was about to mark him down for omitting both Pavement and GBV from his top 200 song list. He's also making regular posts on his blog, sharing life updates while giving a personal angle on contemporary politics.<br><br>Notable mention: Coming from a country with its feet in both Metric and Imperial camps, I also need a tattoo of unit conversions.

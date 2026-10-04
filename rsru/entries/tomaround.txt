@@ -1,0 +1,13 @@
+title: Tom Around The World
+ecc: 11
+category: own
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-06-11
+url: http://www.tomaroundtheworld.com/Index.htm
+is_highlight: no
+
+The homepage of a gent who has made it his quest to travel around the world and meet everyone whom he deems a rock and roll hero. He achieved quite a few from his list, <a href="http://www.tomaroundtheworld.com/HeroQuest2.htm" target="_blank">detailed here</a>. There's also a <a href="http://www.tomaroundtheworld.com/Celebrities.htm" target="_blank">scrapbook and journal</a> detialing even more encounters</a>.<br><br>
+Additionally, his accounts of his travels were enjoyed so much that he was able to fund them entirely through donations. And build this flashy website from the proceeds. Perhaps he has been to a concert near you.
+

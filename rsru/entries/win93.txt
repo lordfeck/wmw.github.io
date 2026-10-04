@@ -1,0 +1,10 @@
+title: Windows 93
+ecc: 7
+category: artistic
+img_desc: 
+heaviness: Pure Loaded!
+order: 3
+date: 2021-08-28
+url: https://www.windows93.net
+is_highlight: yes
+Windows 93 is the peculiar counterpart to Windows 96. The desktop has been themed by someone who just discovered vaporwave and has decided it is forever. It is littered with icons for heaven-knows-what, I'll leave them for the brave to uncover.

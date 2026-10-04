@@ -1,0 +1,13 @@
+title: ASTROLOG
+ecc: 9
+category: eclectic
+img_desc: 
+heaviness: Light
+order: 0
+date: 2025-03-15
+url: https://www.astrolog.org
+is_highlight: no
+
+Unsure of your direction in life? If you're eager to ask the stars, you should try Astrolog. This application has been in development for over 30 years, and features everything an aspiring astrologist needs to divine the stars. You can even generate animated GIFs and 3D star charts to help you visualise the shifting constellations.<br><br>
+See some sample screenshots <a href="https://www.astrolog.org/astrolog/astdemo.htm" target="_blank">here</a>.<br><br>
+The website is suitably styled, conveying enough information without clutter. The author proudly states that he built it himself in FrontPage. There are listed many accolades from Astrology journals, mostly from the mid to late 90s. The website is still receiving updates as of 2024.

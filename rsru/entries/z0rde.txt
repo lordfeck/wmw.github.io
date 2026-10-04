@@ -1,0 +1,15 @@
+title: ZOMG ZUFALL (Flash Loops Archive)
+ecc: 9
+category: artistic
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-07-09
+url: https://z0r.de/
+is_highlight: yes
+
+A website of random flash loops set to suitable musical accompaniment. As of today, there are 7977 available. These are very much the kind of random creativity that only the Web can provide.<br><br>
+
+<em>Note&#58; Not all are worksafe or kid friendly!</em> Though from my quick browse I found nothing seriously alarming, but just a heads-up, this is a place of unbridled creativity. The example from the screenshot may be seen <a href="https://z0r.de/385" target="_blank">here</a>, it is a squirrel gradually losing touch of sanity to the tune of Napoleon XIV's They Are Coming To Take Me Away.<br><br>
+
+Charmingly, they are all made in Adobe Flash but have the modern Ruffle player available. This means they are real flash but work in browsers ancient and modern without the need for any plugin.<br>

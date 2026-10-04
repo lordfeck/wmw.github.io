@@ -1,0 +1,17 @@
+title: The Flight Simulator Vault
+ecc: 8
+category: dowdy
+img_desc: the lfight simulator vault
+heaviness: Light
+order: 3
+date: 2022-05-28
+url: https://fshistory.simflight.com/fsh/index.htm
+is_highlight: no
+
+A website devoted to the history of Microsoft Flight Simulator, detailing the history of its creation by an aspiring graphics programmer in the 70s, then how it was acquired by Microsoft as something that would encourage PC sales. The research is original and the author prides himself in his effort.<br><br>
+It's worth a look at the screenshots; the evolution of Microsoft Flight Simulator through the 80s, 90s and 2000s is the evolution of computer graphics themselves. Certainly, in the earliest versions, it is no small accomplishment what the developer managed to put on PC screens using the limited hardware of the 8086.
+<br><br>
+Downloads of old FSim versions are provided on his companion website <a href=" https://fshistory.simflight.com/fsvault/index.htm" target="_blank">here</a>.
+<br>
+<br>
+The website was last updated in 2008.

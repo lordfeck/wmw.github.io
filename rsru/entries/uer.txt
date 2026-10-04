@@ -1,0 +1,14 @@
+title: Urban Exploration Resource
+ecc: 6
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 0
+date: 2024-12-29
+url: https://www.uer.ca/
+is_highlight: no
+
+Since 2002 and still receiving submissions today, Urban Exploration Resource (UER) is the one stop for all things urbex in North America. The website features forums, photo galleries, and detailed pages for each location explored. Members can share recommendations for visiting - forewarned is forearmed! Details include security, hazards, and any features that make the location worth a visit.<br><br>
+While I've browsed photos of derelict locations before, the extra detail encouraged on this website gives more life and context to them. The passion shows in the effort. The site is location-first, where a location may have more than one photo gallery contributed from each visitor.<br><br>
+An example is this <a href="https://www.uer.ca/locations/viewgal.asp?locid=23546&galid=16423" target="blank">old hospital</a> or <a href="https://www.uer.ca/forum_showthread.asp?fid=1&threadid=98637&currpage=3&pp#post44" target="blank">this tower</a>.
+It is very encouraging to see an online community create a website perfectly tailored to their interest and then last this long!

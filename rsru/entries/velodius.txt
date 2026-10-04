@@ -1,0 +1,13 @@
+title: Velodius
+ecc: 7
+category: artistic
+img_desc: 
+heaviness: Light
+order: 3
+date: 2021-09-06
+url: https://web.archive.org/web/20051124052339id_/http://velodius.com/flash/index.html
+is_highlight: no
+
+A period website of an upstart flash animator. Sadly, we can't see the flash animations now, but the drawings are still present. In fact the whole site was meticulously-styled to look like a sketchbook, presumably with the pages coming alive (were Flash still present!).<br><br>
+<b>Favourite quote&colon;</b> &quot;Eminem vid&colon; I hate this and I don't like Eminem either, but some people wanted to see it.&quot;<br>
+These old sites make me wonder&colon; is the author still an artist today? Did he go on to find a place for his talents?<br>

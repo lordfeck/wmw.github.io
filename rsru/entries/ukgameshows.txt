@@ -1,0 +1,19 @@
+title: UK Game Shows
+ecc: 8
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 0
+date: 2024-12-28
+url: http://www.ukgameshows.com
+is_highlight: no
+
+If you ever wanted to know something about a British game show, you might think to check Wikipedia. Or perhaps the official websites of the BBC, ITV or C4. Think again - the power of amateur enthusiasm has instead given us this vast repository of game show knowledge. The website is packed with background information, production information, biographies of the hosts, bloopers, excursuses on notable episodes and details of when and how the game shows changed.<br><br>
+
+The website is still updated as of 2024, and the information it contains stretched back to the earliest days of broadcast television in Britain.<br><br>
+
+Some notable articles include: <a href="http://www.ukgameshows.com/ukgs/Countdown" target="blank">Countdown</a>, <a href="http://www.ukgameshows.com/ukgs/Deal_or_No_Deal" target="blank">Deal or No Deal</a>, <a href="http://www.ukgameshows.com/ukgs/Masterchef_Goes_Large" target="blank">Masterchef</a> and <a href="http://www.ukgameshows.com/ukgs/Catchphrase" target="blank">Catchphrase</a>. One I recall from childhood is <a href="http://www.ukgameshows.com/ukgs/Raven" target="blank">Raven</a>. There are many, many more.<br><br>
+
+This site is a joy to read, even though one may be nowhere near as interested in game shows, merely encountering this website inspires the same devotion in others to create such a resource. It is a shame that it loses to Wikipedia in the search result rankings, a resource with sparser, plainer written articles on the same game shows.<br><br>
+
+Notably the website was built by one Tom Scott, who later found YouTube fame.

@@ -1,0 +1,34 @@
+title: Melonking
+ecc: 10 
+category: eclectic
+img_desc: 
+heaviness: Moderate
+order: 0
+date: 2025-01-04
+url: https://melonking.net
+is_highlight: yes
+
+Enter the mellow realm of the Melonking. A living embodiment of the lost spirit of the early Web.<br><br>
+
+This is high effort, the unmistakable work of many painstaking hours, quaint, quirky, definitional and raw. <!--the "loveless" of indie websites.--> An absolute refuge from the sludge of the modern web; its mere existence is a refutation of responsive design, AI slop, paywalls and cookie banners.<br><br>
+
+The web pages are presented in a way that shows a mastery of everything in the jilted canvas offered by the web browser. Melonking invites exploration because it is simply fun to click around, just as many more websites were before. You are drawn in because you want to uncover it all.<br>
+
+<h4>What does the Melonking offer his would-be subjects?</h4>
+<ul>
+<li>3D models</li>
+<li>Ozwomp's World, an online 3D game</li>
+<li>Textures</li>
+<li>Pets - digital, then also rocks</li>
+<li>A gallery of thousands of GIFs</li>
+<li>A GIF printer</li>
+<li>A forum</li>
+<li>Hacker Name maker</li>
+<li>emo text converter</li>
+<li>A travelog with commentary and photos</li>
+</ul>
+That's only what I could uncover. All of these presented in a consistent aesthetic that harkens back to the 90s web. Make sure you enable sound playback to get the full experience.<br><br>
+
+If WMW is a competition, this is on the shortlist of winners.<br><br>
+
+&quot;Looks like its raining outside.. Better stick around a while till it clears up.&quot;

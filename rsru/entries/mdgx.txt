@@ -1,0 +1,13 @@
+title: MDGx Max Speed
+ecc: 9
+category: dowdy
+img_desc: 
+heaviness: Moderate
+order: 0
+date: 2023-12-29
+url: https://www.mdgx.com/
+is_highlight: yes
+
+Some imagine an alternative reality where the conventions of Web 2.0 never took hold, and the hobbyist spirit of the old Web lived on. Yet others live that reality. Enter MDGx, where the author has been doing it the same way for 25 years; heedless of later trends and tastes.<br><br>
+The website itself has a boisterous graphical style, yet it does not sacrifice readability. It concentrates on hobbyist computing, with many pages advising tips, tweaks, and offering freeware downloads. The systems and platforms covered range from MS-DOS through <a href="https://www.mdgx.com/reg.htm" target="_blank">Windows 98</a> and <a href="https://www.mdgx.com/SERVCS10.TXT">current-day</a> Windows. <a href="https://www.mdgx.com/linux.htm" target="_blank">Linux gets its own pages too!</a><br><br>
+In addition to the computing repertoire, he shares travel tips for any wayfarer in the USA accompanied with <a href="https://www.mdgx.com/D850/" target="_blank">photography</a> of vast landscapes and nighttime views. This active netizen is also a firm believer in active citizenship, offering meticulously researched advice on Covid-19 and arguments for action against climate change.

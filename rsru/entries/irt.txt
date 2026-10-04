@@ -1,0 +1,12 @@
+title: IRT: Internet Related Technologies
+ecc: 2
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 3
+date: 2021-10-26
+url: https://irt.org/
+is_highlight: no
+If you're planning to time travel back to 1998, bookmark this website. Hither you will find enough information to be employed as a webdev should you find yourself trapped in the past.<br>
+It provides tutorials, reviews and opinions on a variety of web technologies at the turn of the millenium. IRT proclaims that XML will soon supercede HTML, as it seems that many back then believed.<br>
+A highlight is <a href="https://irt.org/articles/js142/" target="_blank">this news piece</a> on the release of the Gecko engine my Mozilla, which would eventually become Firefox. Such things as DOM and CSS were just breaking ground then.

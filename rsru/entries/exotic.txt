@@ -1,0 +1,19 @@
+title: Exotic Silicon Research
+ecc: matchless 
+category: eclectic
+img_desc: 
+heaviness: Modest
+order: 3
+date: 2023-04-16
+url: https://research.exoticsilicon.com/
+is_highlight: yes
+
+Imagine there is a sacred rulebook that governs the design stipulations for today's web pages. Now picture someone <i>storming</i> the cloistered brutalist cathedral where the rulebook resides, <b>seizing it</b> and not merely tossing it away but <u>incinerating</u> it.<br><br>
+
+Around our irreverent protagonist, gasps arise. These gasps then give way to shrieks as he replaces the rulebook with a kaleidoscopic scrapbook. You might imagine that the guardians of the old order would retaliate, but their wills are subdued and rendered powerless as the scrapbook is opened and emits its hueful rays. The guardians are smitten then blinded; their cause is forever discredited and a new day of hope dawns in its place.<br><br>
+
+This is the best I could summarise Exotic Silicon. The website gives its attention to research and articles around using modern networking and Unix systems with the mindset of a maverick hacker of old. They're also kind enough to suggest code fixes for open source projects, and explain them too! <a href="https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console" target="_blank">Isn't that kind of them</a>?
+
+<br><br>The presentation is truly inventive; CSS stylesheets are treated like musical scores, jolting the informative articles with life. The layouts are as hackish and original as their attitude to computing. The authors are fully conscious of this too; the whys and wherefores <a href="https://research.exoticsilicon.com/articles/replying_to_comments" target="_blank">are answered here</a>. <br><br>
+
+Educational materials and business services are seldom associated with soulful presentation, but the web makes it possible. Exotic Silicon is witness to this fact. More websites should follow their lead (but <b>not</b> duplicate their style, such is not possible) and our lives would be just a little less dull.<br>

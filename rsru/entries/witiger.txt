@@ -1,0 +1,13 @@
+title: Humour from the classes of Prof. Richardson
+ecc: 7
+category: own
+img_desc: 
+heaviness: Lightweight
+order:
+date: 2022-10-08
+url: http://www.witiger.com/ecommerce/humour.htm
+is_highlight: no
+
+"Humour, facilitated by technology enhancing communication, is one of the common elements of all societies and it also makes sense that the "Internet and its Impact on Society" would include facilitating the spread of humour."<br><br>
+Don't we agree? Here is the collected humour for the classes of one Professor Richardson, forever immortalised upon the web. He's gathered links to various sections of the Yahoo directory and made annotated screenshots of Netscape 4.0, both of which kicked the bucket long before the Professor's pages.<br><br>
+You should also get a glimpse of his website's other pages <a href="http://www.witiger.com/universityoftoronto/MGTC41.htm" target="_blank">here</a>. He is a lecturer of computing and business, who appears to have learnt HTML once in 1998 and never updated his web design skills. And why should he? His quaint web pages are still browsable today.

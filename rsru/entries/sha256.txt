@@ -1,0 +1,13 @@
+title: SHA-256 Algorithm Explained
+ecc: 4
+category: artistic
+img_desc: 
+heaviness: Medium
+order: 3
+date: 2022-02-20
+url: https://sha256algorithm.com/
+is_highlight: no
+
+A visualisation of how a SHA256 digest is born. This interactive page reveals the process in all its gory details with pretty colours.
+One may input any text phrase and let the algorithm play to completion, or view the process step by step.<br>
+After seeing this, you'll have an appreciation of the effort required to design clever algorithms that encrypt our passwords and verify our files haven't been tampered.

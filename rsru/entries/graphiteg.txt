@@ -1,0 +1,14 @@
+title: Graphite Galaxy
+ecc: 8
+category: dowdy
+heaviness: Lighter than a star
+order: 3
+date: 2024-02-03
+url: http://www.graphitegalaxy.com
+is_highlight: no
+
+Graphite Galaxy is the web presence of a devoted amateur astronomer from Hungary. He has been searching the heavens for the furthest celestial bodies, pushing the limits of optics to deliver them to his eye. These sightings are then immortalised as graphite sketches and desriptions, which he carefully catalogues and publishes on his website.<br><br>
+
+The author, a Mr. Ferenc Lovró <a href="http://www.graphitegalaxy.com/index.cgi?a=aboutme" target="_blank">has told his story here</a>. His devotion has extended to purchasing a small cottage far from the light pollution of civilisation, just so he could set up his telescope there for clearer views of the sky.<br><br>
+
+And in true WMW fashion, he boasts: "I'm not a member on any social websites such as Facebook, Google+, etc, and will never be."

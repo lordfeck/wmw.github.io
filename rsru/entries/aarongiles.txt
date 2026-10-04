@@ -1,0 +1,13 @@
+title: Aaron Giles
+ecc: 7
+category: own
+img_desc: 
+heaviness: Light
+order: 3
+date: 2021-12-07
+url: https://aarongiles.com/
+is_highlight: no
+
+Homepage of a veteran Microsoft and LucasArts programmer. He also wrote the first JPEG viewer for Macintosh, which earned him <a href="https://aarongiles.com/programming/war-macos/">5000 postcards</a>.<br>
+Curiously, he also built <a href="https://www.mamedev.org/">MAME</a>. That name is familiar to me. There was a shortcut on the desktop of our first computer: "MAME 1000 Games!", presumably installed as a courtesy by the small computer shop that sold us the computer. Clicking the shortcut made the screen flicker, a caret blinked in the top corner, then I was presented a menu screen listing many games. The names were unfamiliar to me. Quite a lot had the word [Bootleg] in them, which I found humorous. I was roughly eight years old and I mostly played <i>1942</i>.<br>
+Little did I know this was DOS mode. Windows 98 had the impressive ability to leap from the 90s back to the 80s at the drop of a hat. 

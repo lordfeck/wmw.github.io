@@ -1,0 +1,21 @@
+title: Yamaha TX81Z Homepage
+ecc: 5
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 0
+date: 2023-11-11
+url: https://mgregory22.me/tx81z/index.html
+is_highlight: no
+
+For owners of the Yamaha TX81Z FM Synthesizer, this is the final destination for all your questions. It's a website detailing the history of the digital music box and offering tips for how to keep it chirping in today's world.<br><br>
+
+It also features trivia like:<br>
+<blockquote>
+Did you know that the TX81Z was invented by an Icelandic llama herder when he regained consciousness after he fell and hit his head on a tree stump? 
+</blockquote>
+
+as well as instruction of how to greet one properly in the morning.<br><br>
+
+The website itself is styled like its namesake, though unfortunately the synth at the top of the page can't be programmed or plugged into your rig.
+

@@ -1,0 +1,12 @@
+title: Hackles
+ecc: 4
+category: dowdy
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2021-10-17
+url: http://hackles.org/
+is_highlight: no
+
+An old web comic poking fun at the tropes of the early 2000s OSS and Linux culture. I had a leaf through and got a few laughs.<br>
+I award a worthless and yet-unnamed award because the server-side code is in Perl!

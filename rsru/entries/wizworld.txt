@@ -1,0 +1,12 @@
+title: WizWorld
+ecc: 9
+category: eclectic
+img_desc: 
+heaviness: Lightweight
+order: 3
+date: 2021-09-13
+url: http://www.wizworld.com/
+is_highlight: no
+
+Colourful SciFi style throwback page, featuring modest use of GIFs.<br>
+I'm not entirely sure what this is meant to be, but it is done with a lot of passion. He has great fondness for an old SciFi B-Movie, The Wizard of Speed and Time (that's a job title I'd envy).

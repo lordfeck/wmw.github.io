@@ -1,0 +1,15 @@
+title: Dazeland
+ecc: 9
+category: artistic
+img_desc: 
+heaviness: Light
+order: 3
+date: 2025-07-05
+url: https://www.dazeland.com/index-en.html
+is_highlight: no
+
+Praise for Dazeland, &quot;the eldorado of old games&quot;. Anyone who has sought honest opinions on video games will have learnt to quickly distrust the gaming press; the incentives are too misaligned for them to give an honest appraisal.<br><br>
+Hence we turn to independent voices, and Dazeland is one such voice. The website is a trove of knowledge on old Amiga and PC games, with concise reviews provided for each one, carefully weighted scores, and a contrast with contemporary magazine reviews.<br><br>
+The website originates from France but is also written in English, giving outsiders a view into the lively French software scene of the recent past, with the continent's much-beloved Amiga well represented. I've long admired the rich bitmap graphics of that platform, and I'm pleased to say that Dazeland has plenty of screenshots, which are at least pretty to view even if the gameplay was mauvais!<br><br>
+Other notable features include a section filled with information on every MegaMan game, lists of recommended reading and curated links, and a jukebox - celebrating the other great delight of the Amiga with inspired pieces.<br><br>
+The website is still updated as of July 2025, and looks to have been online since the year 2000. Such dedication coupled with the high effort presentation earns it this place among the artistic sites. Vive la Daze!

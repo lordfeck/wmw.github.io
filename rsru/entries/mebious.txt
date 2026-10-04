@@ -1,0 +1,11 @@
+title: Mebious (weird.weird.neocities)
+ecc: 10 
+category: eclectic
+img_desc: 
+heaviness: Modest
+order: 3
+date: 2021-08-28
+url: https://mebious.neocities.org/
+is_highlight: yes
+I don't really know what I found here. It is a trip for the senses.<br>
+<i>Y O U   A R E   O N   T H E   O T H E R   S I D E   O F   T H E   F E N C E   N O W</i>

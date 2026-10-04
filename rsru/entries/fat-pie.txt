@@ -1,0 +1,15 @@
+title: FATPIE, Animation & Stuff by David Firth
+ecc: 10
+category: own
+img_desc: 
+heaviness: Light
+order: 0
+date: 2023-07-21
+url: https://www.fat-pie.com/
+is_highlight: no
+
+Here lives the internet presence of one David Firth, creator of many well known animations. He's the force behind Burnt Face Man, Jerry Jackson, Not Stanley and most known of all: Salad Fingers. While much of his work is accessible on YouTube or Newgrounds, he's been maintaining his own web presence for donkey's years.
+<br><br>
+Long ago I watched the Burnt Face Man on its own website with the original Flash, but I wasn't aware of his other works until much later. His style is very idiosyncratic; it blends the surreal and the uncanny. It may not be for everyone.
+<br><br>
+<a href="https://www.fat-pie.com/flash.htm" target="_blank">A list of all his animations may be found here</a>

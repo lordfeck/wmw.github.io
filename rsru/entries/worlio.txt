@@ -1,0 +1,10 @@
+title: Worlio
+ecc: 8
+category: dowdy
+img_desc: 
+heaviness: Unsoiled
+date: 2023-03-18
+url: https://worlio.com/
+is_highlight: yes
+
+Worlio is dedicated to preserving the Internet as it began. Therefore it shares some overlap with this website though Worlio goes further in scope than RSRU; it hosts many old image and video files collected by its enthusiast community. Interest centres around 90s virtual worlds like Microsoft V-Chat. There is even a project to <a href="https://worlio.com/library/Re-AOL/#info" target="_blank">reverse engineer the AOL protocol</a> and resurrect the walled garden.<br><br>As a real community, the site offers live chat and threaded forums. The styling is bevels and textures, timeless style making for effortless navigation. In a sentence, what archive.org <i>ought</i> to be.

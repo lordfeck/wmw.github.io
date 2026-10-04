@@ -1,0 +1,12 @@
+title: l33tcodes
+ecc: 9
+category: own
+img_desc: 
+heaviness: Light
+order: 3
+date: 2022-02-19
+url: https://l33t.codes/
+is_highlight: yes
+
+A personal homepage/blog of another programmer. One of the most visually stunning webpages I've seen.<br>
+His interests range from retro to modern. There is an impressive write-up of old file descriptor formats, if reading that takes your fancy. He wrote a BBS server in Node Javascript, which is equally as heretical as it is impressive.

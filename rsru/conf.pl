@@ -9,7 +9,7 @@
 my $tplRoot = "./tpl/";
 my $siteHomepageDesc = << 'EOF'; 
 There was a time when the Internet felt like somewhere to escape <i>to</i>. Now it is impossible to escape <i>from</i>.<br><br>
-These selected websites hearken back to a time of wonder and discovery. Here live the wild and glorious pages from the web in all its ages; a peek over the <span title="prisons">walled gardens</span> of social media. Originality and effort is welcomed, no matter its subject.<br><br>
+Well Made Web seeks to chronicle any web page made in this spirt, where it may still be found. These selected websites hearken back to a time of wonder and discovery. Here live the wild and glorious pages from the web in all its ages; a peek over the <span title="prisons">walled gardens</span> of social media. Originality and effort is welcomed, no matter its subject.<br><br>
 <b>Submissions:</b> <code>letters@&lt;THIS_DOMAIN&gt;.uk</code> (exclude subdomain).<br><br>
 <b>SOCIALS:</b> Follow us on <a href="https://twitter.com/ThranFeed" target="_blank">Twitter</a> or <a href="https://mastodon.me.uk/@thran" target="_blank">Mastodon</a> and you'll have the latest entries as soon as they are published! Or <a href="https://www.thran.uk" target="_blank">visit the curator's homepage</a>.<br><br>
 <p><img src="./wmw.gif" alt="wmw button"> &lt;-- Link to us with this button.<br><br></p>
@@ -72,7 +72,7 @@ EOF
     catDesc => {
         artistic => "Webpages with highly inventive presentation. Effort first.",
         eclectic => "Curious and not easily defined; the obscure corners of the web.",
-        dowdy => "The dated and the obdurate. Commited to the subject, designed to last forever.",
+        dowdy => "The dated, the informative and the enduring. Commited to the subject, designed to last forever.",
         own => "Homepages of individuals. What 'social media' is failing to imitate.",
     },
     #======================================================================

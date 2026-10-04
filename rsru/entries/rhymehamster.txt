@@ -1,0 +1,33 @@
+title: RhymeHamster
+ecc: 8
+category: dowdy
+img_desc: 
+heaviness: Light
+order: 0
+date: 2026-10-04
+url: https://rhymehamster.com/
+is_highlight: no
+
+<div style="text-align: center;">
+<div  style="margin-bottom: 10px;">
+<b>Ode to The Rhyming Abode</b>
+</div>
+<div>
+Imagine, if you will, a place that will thrill. <br>
+You seek words of same sound, but know not where they're found. <br>
+A search engine in rhyme would surely save you time.<br>
+One man sought, but in vain. So a site'e built, and the many were fain!<br>
+Stuck up the creek? Join the clique.<br> 
+You'll find your rhyme; it's truly a mine!<br><br>
+</div>
+</div>
+
+For those who survived my attempt at free-form verse, I'm pleased to introduce RhymeHamster. It was built to assist with the writing of musical theatre, by someone who has genuinely succeeded in that field. To quote:
+
+<blockquote style="font-family: serif;">
+Perfect rhymes are checked word by word, so nothing with the stress in the wrong place is presented as exact. Results are grouped by syllable count, which helps when a line has to scan, and slant rhymes sit on their own adjustable dial. It’s free, with no account.
+</blockquote>
+
+In other words, in a time where one might be tempted to outsource wordsmithing to an LLM, this site has been curated by and for the people who will genuinely benefit from it. That makes it a worthy entrant to WMW indeed.<br><br>
+
+I will also start the rumour that this website is certified net zero. It's possible that each request is served by a Raspberry Pi-Zero - powered by a very athletic hamster who never leaves his wheel.

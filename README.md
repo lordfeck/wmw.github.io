@@ -17,3 +17,16 @@ This repository is the complete archive of Well Made Web. It includes the `rsru`
 
 # WHO IS IT FOR?
 Mostly myself. I'll open the repo to the public maybe someday. I like what I've found and it's too good just to keep on my server.
+
+# LICENCING
+## RSRU
+The rsru script is licenced under the GPLv3. It has its own repo [here](https://github.com/lordfeck/rsru).
+
+## ENTRIES 
+All original written content (i.e. entries) are licenced under the CC BY-NC-SA 4.0. 
+
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+    This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
+
+Share it but don't sell it, in other words.

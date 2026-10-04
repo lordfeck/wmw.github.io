@@ -8,7 +8,7 @@
 <title>WMW: Well Made Web</title>
 <link>https://wmw.thran.uk</link>
 <description>There was a time when the Internet felt like somewhere to escape &#x3C;i&#x3E;to&#x3C;/i&#x3E;. Now it is impossible to escape &#x3C;i&#x3E;from&#x3C;/i&#x3E;.&#x3C;br&#x3E;&#x3C;br&#x3E;
-These selected websites hearken back to a time of wonder and discovery. Here live the wild and glorious pages from the web in all its ages; a peek over the &#x3C;span title=&#x22;prisons&#x22;&#x3E;walled gardens&#x3C;/span&#x3E; of social media. Originality and effort is welcomed, no matter its subject.&#x3C;br&#x3E;&#x3C;br&#x3E;
+Well Made Web seeks to chronicle any web page made in this spirt, where it may still be found. These selected websites hearken back to a time of wonder and discovery. Here live the wild and glorious pages from the web in all its ages; a peek over the &#x3C;span title=&#x22;prisons&#x22;&#x3E;walled gardens&#x3C;/span&#x3E; of social media. Originality and effort is welcomed, no matter its subject.&#x3C;br&#x3E;&#x3C;br&#x3E;
 &#x3C;b&#x3E;Submissions:&#x3C;/b&#x3E; &#x3C;code&#x3E;letters@&#x26;lt;THIS_DOMAIN&#x26;gt;.uk&#x3C;/code&#x3E; (exclude subdomain).&#x3C;br&#x3E;&#x3C;br&#x3E;
 &#x3C;b&#x3E;SOCIALS:&#x3C;/b&#x3E; Follow us on &#x3C;a href=&#x22;https://twitter.com/ThranFeed&#x22; target=&#x22;_blank&#x22;&#x3E;Twitter&#x3C;/a&#x3E; or &#x3C;a href=&#x22;https://mastodon.me.uk/@thran&#x22; target=&#x22;_blank&#x22;&#x3E;Mastodon&#x3C;/a&#x3E; and you&#x27;ll have the latest entries as soon as they are published! Or &#x3C;a href=&#x22;https://www.thran.uk&#x22; target=&#x22;_blank&#x22;&#x3E;visit the curator&#x27;s homepage&#x3C;/a&#x3E;.&#x3C;br&#x3E;&#x3C;br&#x3E;
 &#x3C;p&#x3E;&#x3C;img src=&#x22;./wmw.gif&#x22; alt=&#x22;wmw button&#x22;&#x3E; &#x26;lt;-- Link to us with this button.&#x3C;br&#x3E;&#x3C;br&#x3E;&#x3C;/p&#x3E;
@@ -19,8 +19,52 @@ These selected websites hearken back to a time of wonder and discovery. Here liv
 </description>
 <language>en</language>
 <copyright>No Copyright</copyright>
-<lastBuildDate>Sun, 08 Feb 2026 21:42:45 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 15:11:54 BST</lastBuildDate>
 
+<item>
+<title>RhymeHamster</title>
+<link>https://wmw.thran.uk/dowdy/index.html#rhymehamster</link>
+<description>
+&#x3C;div style=&#x22;text-align: center;&#x22;&#x3E;
+&#x3C;div  style=&#x22;margin-bottom: 10px;&#x22;&#x3E;
+&#x3C;b&#x3E;Ode to The Rhyming Abode&#x3C;/b&#x3E;
+&#x3C;/div&#x3E;
+&#x3C;div&#x3E;
+Imagine, if you will, a place that will thrill. &#x3C;br&#x3E;
+You seek words of same sound, but know not where they&#x27;re found. &#x3C;br&#x3E;
+A search engine in rhyme would surely save you time.&#x3C;br&#x3E;
+One man sought, but in vain. So a site&#x27;e built, and the many were fain!&#x3C;br&#x3E;
+Stuck up the creek? Join the clique.&#x3C;br&#x3E; 
+You&#x27;ll find your rhyme; it&#x27;s truly a mine!&#x3C;br&#x3E;&#x3C;br&#x3E;
+&#x3C;/div&#x3E;
+&#x3C;/div&#x3E;
+
+For those who survived my attempt at free-form verse, I&#x27;m pleased to introduce RhymeHamster. It was built to assist with the writing of musical theatre, by someone who has genuinely succeeded in that field. To quote:
+
+&#x3C;blockquote style=&#x22;font-family: serif;&#x22;&#x3E;
+Perfect rhymes are checked word by word, so nothing with the stress in the wrong place is presented as exact. Results are grouped by syllable count, which helps when a line has to scan, and slant rhymes sit on their own adjustable dial. It&#xE2;&#x80;&#x99;s free, with no account.
+&#x3C;/blockquote&#x3E;
+
+In other words, in a time where one might be tempted to outsource wordsmithing to an LLM, this site has been curated by and for the people who will genuinely benefit from it. That makes it a worthy entrant to WMW indeed.&#x3C;br&#x3E;&#x3C;br&#x3E;
+
+I will also start the rumour that this website is certified net zero. It&#x27;s possible that each request is served by a Raspberry Pi-Zero - powered by a very athletic hamster who never leaves his wheel.
+
+&#x3C;a href=&#x22;https://wmw.thran.uk/dowdy/index.html#rhymehamster&#x22; target=&#x22;_blank&#x22;&#x3E;View RhymeHamster on WMW: Well Made Web.&#x3C;/a&#x3E;</description>
+<category>dowdy</category>
+<pubDate>Sun, 04 Oct 2026 00:00:00 UTC</pubDate>
+</item>
+<item>
+<title>pirahxcx</title>
+<link>https://wmw.thran.uk/own/index.html#pirahxcx</link>
+<description>
+One aspect of the internet I miss is that it used to feel like a refuge from the crowd, from those who entertain thoughts of running against it, perhaps more so than from it. This site feels like stepping back into those days. It&#x27;s created by someone who found the same freedom online. May the fire never go out.&#x3C;br&#x3E;&#x3C;br&#x3E;
+
+Indeed, to that end pirah seeks to fan the flame. This he does by means of original thoughts, exquisite film recommendations, research into other free spaces online, and creating and building his own. But the author has just as colourful a life offline, living the type of life that has embodied as much antinomianism as it&#x27;s possible to grasp in this stifling world. I also like the design.
+
+&#x3C;a href=&#x22;https://wmw.thran.uk/own/index.html#pirahxcx&#x22; target=&#x22;_blank&#x22;&#x3E;View pirahxcx on WMW: Well Made Web.&#x3C;/a&#x3E;</description>
+<category>own</category>
+<pubDate>Sat, 03 Oct 2026 00:00:00 UTC</pubDate>
+</item>
 <item>
 <title>Butcher&#x27;s Baked Goods</title>
 <link>https://wmw.thran.uk/own/index.html#butchersbakedgoods</link>
@@ -146,36 +190,6 @@ It is very encouraging to see an online community create a website perfectly tai
 &#x3C;a href=&#x22;https://wmw.thran.uk/dowdy/index.html#uer&#x22; target=&#x22;_blank&#x22;&#x3E;View Urban Exploration Resource on WMW: Well Made Web.&#x3C;/a&#x3E;</description>
 <category>dowdy</category>
 <pubDate>Sun, 29 Dec 2024 00:00:00 UTC</pubDate>
-</item>
-<item>
-<title>UK Game Shows</title>
-<link>https://wmw.thran.uk/dowdy/index.html#ukgameshows</link>
-<description>
-If you ever wanted to know something about a British game show, you might think to check Wikipedia. Or perhaps the official websites of the BBC, ITV or C4. Think again - the power of amateur enthusiasm has instead given us this vast repository of game show knowledge. The website is packed with background information, production information, biographies of the hosts, bloopers, excursuses on notable episodes and details of when and how the game shows changed.&#x3C;br&#x3E;&#x3C;br&#x3E;
-
-The website is still updated as of 2024, and the information it contains stretched back to the earliest days of broadcast television in Britain.&#x3C;br&#x3E;&#x3C;br&#x3E;
-
-Some notable articles include: &#x3C;a href=&#x22;http://www.ukgameshows.com/ukgs/Countdown&#x22; target=&#x22;blank&#x22;&#x3E;Countdown&#x3C;/a&#x3E;, &#x3C;a href=&#x22;http://www.ukgameshows.com/ukgs/Deal_or_No_Deal&#x22; target=&#x22;blank&#x22;&#x3E;Deal or No Deal&#x3C;/a&#x3E;, &#x3C;a href=&#x22;http://www.ukgameshows.com/ukgs/Masterchef_Goes_Large&#x22; target=&#x22;blank&#x22;&#x3E;Masterchef&#x3C;/a&#x3E; and &#x3C;a href=&#x22;http://www.ukgameshows.com/ukgs/Catchphrase&#x22; target=&#x22;blank&#x22;&#x3E;Catchphrase&#x3C;/a&#x3E;. One I recall from childhood is &#x3C;a href=&#x22;http://www.ukgameshows.com/ukgs/Raven&#x22; target=&#x22;blank&#x22;&#x3E;Raven&#x3C;/a&#x3E;. There are many, many more.&#x3C;br&#x3E;&#x3C;br&#x3E;
-
-This site is a joy to read, even though one may be nowhere near as interested in game shows, merely encountering this website inspires the same devotion in others to create such a resource. It is a shame that it loses to Wikipedia in the search result rankings, a resource with sparser, plainer written articles on the same game shows.&#x3C;br&#x3E;&#x3C;br&#x3E;
-
-Notably the website was built by one Tom Scott, who later found YouTube fame.
-
-&#x3C;a href=&#x22;https://wmw.thran.uk/dowdy/index.html#ukgameshows&#x22; target=&#x22;_blank&#x22;&#x3E;View UK Game Shows on WMW: Well Made Web.&#x3C;/a&#x3E;</description>
-<category>dowdy</category>
-<pubDate>Sat, 28 Dec 2024 00:00:00 UTC</pubDate>
-</item>
-<item>
-<title>A Single Div</title>
-<link>https://wmw.thran.uk/artistic/index.html#asinglediv</link>
-<description>
-What is the most that can be achieved inside a single div, leaving the rest to CSS? Quite a lot, as Lynn Fisher has proven to us with her website &#x22;A Single Div.&#x22;&#x3C;br&#x3E;&#x3C;br&#x3E;
-As you scroll down the page, you will see quite a many graphics and animations rendered using the Web&#x27;s styling language alone. This beggars belief. Now we know that to the gifted, CSS can be made to draw next to anything. My personal favourite on this page is the 1980s Weird Al Yankovic.
-
-
-&#x3C;a href=&#x22;https://wmw.thran.uk/artistic/index.html#asinglediv&#x22; target=&#x22;_blank&#x22;&#x3E;View A Single Div on WMW: Well Made Web.&#x3C;/a&#x3E;</description>
-<category>artistic</category>
-<pubDate>Sat, 30 Nov 2024 00:00:00 UTC</pubDate>
 </item>
 </channel>
 </rss>
